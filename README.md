@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi!
 
 ![GitHub followers](https://img.shields.io/github/followers/Kidus-Bezuayeho?style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Kidus_Bezuayeho-blue?logo=linkedin)
